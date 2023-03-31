@@ -7,7 +7,7 @@
     "preview": "vite preview"
   },
   "main": "./dist/vue3-component-experiments.umd.js",
-  "module": "vue3-component-experiments.es.js",
+  "module": "./dist/vue3-component-experiments.es.js",
   "exports": {
     ".": {
       "import": "./dist/vue3-component-experiments.es.js"
