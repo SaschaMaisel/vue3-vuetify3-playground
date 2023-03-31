@@ -1,9 +1,7 @@
 <template>
-    <span>home</span>
-<!--    <main-frame :sideBarItems="[]" :topBarItems="[]">-->
+    <v-card>
         <HelloWorld/>
-<!--    </main-frame>-->
-    <v-footer> asdf</v-footer>
+    </v-card>
 </template>
 
 <script lang="ts" setup>
