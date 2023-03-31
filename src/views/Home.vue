@@ -1,9 +1,9 @@
 <template>
-  <span>home</span>
-  <main-frame :sideBarItems="[]" :topBarItems="[]">
-    <HelloWorld/>
-  </main-frame>
-  <v-footer> asdf</v-footer>
+    <span>home</span>
+<!--    <main-frame :sideBarItems="[]" :topBarItems="[]">-->
+        <HelloWorld/>
+<!--    </main-frame>-->
+    <v-footer> asdf</v-footer>
 </template>
 
 <script lang="ts" setup>
