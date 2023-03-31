@@ -4,7 +4,7 @@ import router from "./routing";
 
 import type { App } from 'vue'
 
-import {components} from "gccp-vue-components-3"
+import { components } from "vue3-component-experiments"
 
 export function registerPlugins(app: App) {
   loadFonts();
